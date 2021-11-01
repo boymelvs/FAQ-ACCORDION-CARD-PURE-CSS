@@ -1,4 +1,4 @@
-# Frontend Mentor - FAQ ACCORDION CARD SOLUTION
+# Frontend Mentor - FAQ ACCORDION CARD SOLUTION PURE CSS
 
 ## Table of contents
 
